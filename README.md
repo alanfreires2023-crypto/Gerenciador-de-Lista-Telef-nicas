@@ -30,6 +30,10 @@ O sistema permite ao usuário realizar as seguintes operações através de um m
 
 ---
 
+<img width="1868" height="970" alt="Captura de tela 2025-12-01 010415" src="https://github.com/user-attachments/assets/8b965642-8ea3-4ef3-ab0d-db696276c6f5" />
+
+
+
 ## 👨‍💻 Contato do Desenvolvedor
 
 * **Desenvolvido por:** Alan Teixeira Freires
